@@ -1,0 +1,35 @@
+Git Commands:
+
+1. git in it:
+    It is used to make folder as git local repository.
+
+2. git status:
+   It is used to check the current status of files in a folder(whether they are commited or added to staging area or push to git repository)
+
+3.git add test.txt
+  It is used to add files from local folder to staging area.(Here we can Add each file separately)
+
+4. git commit -m "Message": 
+  It is used to commit the files from staging area to local repository(here we can commit all files at a time)
+
+5. git remote add origin git path:
+  It is used to link remote Git path with local folder.
+
+6. git push -u origin master.
+  It is used to add files in remote repository.
+
+7. git checkout -b test:
+  It is used to create new branch test and move from one branch to another branch.
+
+8. git branch:
+ It is used to check the current branch.
+
+9.git checkout test:
+  It is used to shift from one branch to existing another branch.
+
+10.git clone Remote path:
+ It is used to download folder from git path to local path.
+
+11. Fork concept is used to download files from another repository to our own repository.
+
+
